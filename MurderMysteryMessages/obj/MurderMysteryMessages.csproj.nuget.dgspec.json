@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sierr\\OneDrive\\Desktop\\Programing\\C#\\MurderMysteryMessages\\MurderMysteryMessages\\MurderMysteryMessages.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sierr\\OneDrive\\Desktop\\Programing\\C#\\MurderMysteryMessages\\MurderMysteryMessages\\MurderMysteryMessages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sierr\\OneDrive\\Desktop\\Programing\\C#\\MurderMysteryMessages\\MurderMysteryMessages\\MurderMysteryMessages.csproj",
+        "projectName": "MurderMysteryMessages",
+        "projectPath": "C:\\Users\\sierr\\OneDrive\\Desktop\\Programing\\C#\\MurderMysteryMessages\\MurderMysteryMessages\\MurderMysteryMessages.csproj",
+        "packagesPath": "C:\\Users\\sierr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sierr\\OneDrive\\Desktop\\Programing\\C#\\MurderMysteryMessages\\MurderMysteryMessages\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.64.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Party Name="" />
+  <Party Name="Gordon">
+    <Person Name="Sierra" PhoneNum="505" Email="youremail@gmail.com" CharAssign="Simone Dupain" IsSent="False" />
+    <Person Name="Sylvia" PhoneNum="" Email="" CharAssign="" IsSent="True" />
+    <Person Name="Shawn" PhoneNum="" Email="" CharAssign="" IsSent="True" />
+    <Person Name="Shannon" PhoneNum="" Email="" CharAssign="" IsSent="True" />
+  </Party>
+	<Party Name="P">
+		<Person Name="J" PhoneNum="" Email="sierra.s.gordon@gmail.com" CharAssign="Chandler Micheals" IsSent="True" />
+	</Party>
+  
+</root>
